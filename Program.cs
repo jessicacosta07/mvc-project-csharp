@@ -1,6 +1,15 @@
+using Microsoft.AspNetCore.Builder;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
+using mvc_project_csharp.Context;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+object value = builder.Services.AddDbContext<AgendaContext>(options =>
+        options.UseSqlServer(builder.Configuration.GetConnectionString("ConexaoPadrao")));
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
