@@ -7,7 +7,7 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-Pages
+## Pages
 
 ![image](https://github.com/jessicacosta07/mvc-project-csharp/assets/65916297/b327e642-4e31-4267-9c89-e27351f72a2f)
 
