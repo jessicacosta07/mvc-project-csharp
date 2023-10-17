@@ -18,6 +18,12 @@ Pages
 
 ![image](https://github.com/jessicacosta07/mvc-project-csharp/assets/65916297/26167573-bec2-4c58-9dab-04e89ec25a85)
 
+![image](https://github.com/jessicacosta07/mvc-project-csharp/assets/65916297/2e719fca-9abd-46f3-aa69-d5712d2532e8)
+
+![image](https://github.com/jessicacosta07/mvc-project-csharp/assets/65916297/03032c4f-b498-44c9-a137-5b3d219302c4)
+
+
+
 
 
 
